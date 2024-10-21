@@ -112,6 +112,8 @@ if num1 == 0 and sign == '+' and num2 == 49:
     print("0+49 = 49")
 if num1 == 0 and sign == '+' and num2 == 50:
     print("0+50 = 50")
+if num1 == 0 and sign == '+' and num2 == 51:
+    print("0+51 = 51")
 if num1 == 1 and sign == '+' and num2 == 0:
     print("1+0 = 1")
 if num1 == 1 and sign == '+' and num2 == 1:
