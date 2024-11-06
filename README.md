@@ -9,4 +9,4 @@ So to be true to the "real" story I have only gone from 0-50 however higher numb
 The generator will not work in Python 2 however it can probably be patched to work by doing `from __future__ import division`
 
 ![The image](https://i.imgur.com/ZMvUovj.png).
-Well newday!!! okay for now
+Well newday!!! okay for now!
